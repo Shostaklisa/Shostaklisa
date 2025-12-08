@@ -4,19 +4,19 @@ Working with Python, ML/DL, CV, NLP and data analytics.
 
 ### 🔧 Tech Stack
 **Primary Skills**
-- Programming Languages: Python, SQL
-- Data Analysis: Pandas, NumPy, Scikit-learn, Phik
-- Data Visualization: Matplotlib, Seaborn
-- Statistical Analysis: Regression, Hypothesis Testing, A/B Testing
-- Machine Learning Models: K-means, SVC, Random Forest, CatBoost, XGBoost, LightGBM
-- Machine Learning Frameworks: TensorFlow, PyTorch, PySpark
+- **Programming Languages**: Python, SQL
+- **Data Analysis**: Pandas, NumPy, Scikit-learn, Phik
+- **Data Visualization**: Matplotlib, Seaborn
+- **Statistical Analysis**: Regression, Hypothesis Testing, A/B Testing
+- **Machine Learning Models**: K-means, SVC, Random Forest, CatBoost, XGBoost, LightGBM
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, PySpark
 
 **Additional Skills**
-- Model Interpretation: SHAP, Permutation Importance
-- Deep Learning Frameworks: Keras
-- Natural Language Processing (NLP): NLTK, BERT
-- Databases: MySQL, PostgreSQL
-- Version Control: Git, GitHub
+- **Model Interpretation**: SHAP, Permutation Importance
+- **Deep Learning Frameworks**: Keras
+- **Natural Language Processing (NLP)**: NLTK, BERT
+- **Databases**: MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
 
 
 ### 📫 Contact
