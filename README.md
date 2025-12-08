@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Elizaveta 👋
+**Data Scientist with a background in medical physics & bioengineering.🌱**  
+Working with Python, ML/DL, CV, NLP and data analytics.
 
-<!--
-**Shostaklisa/Shostaklisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+**Primary Skills**
+- Programming Languages: Python, SQL
+- Data Analysis: Pandas, NumPy, Scikit-learn, Phik
+- Data Visualization: Matplotlib, Seaborn
+- Statistical Analysis: Regression, Hypothesis Testing, A/B Testing
+- Machine Learning Models: K-means, SVC, Random Forest, CatBoost, XGBoost, LightGBM
+- Machine Learning Frameworks: TensorFlow, PyTorch, PySpark
 
-Here are some ideas to get you started:
+**Additional Skills**
+- Model Interpretation: SHAP, Permutation Importance
+- Deep Learning Frameworks: Keras
+- Natural Language Processing (NLP): NLTK, BERT
+- Databases: MySQL, PostgreSQL
+- Version Control: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Contact
+**GitHub**: https://github.com/Shostaklisa
+
+**Telegram**: https://t.me/LisaShostak
+
+**Email**: Elishostak@yandex.com
