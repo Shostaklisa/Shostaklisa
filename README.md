@@ -20,8 +20,11 @@ Working with Python, ML/DL, CV, NLP and data analytics.
 
 
 ### 📫 Contact
-**GitHub**: https://github.com/Shostaklisa
 
 **Telegram**: https://t.me/LisaShostak
 
 **Email**: Elishostak@yandex.com
+
+**портфолио:**
+- https://github.com/Shostaklisa/ds_portfolio
+- https://github.com/Shostaklisa/freelance_projects
