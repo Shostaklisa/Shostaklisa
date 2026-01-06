@@ -28,3 +28,4 @@ Working with Python, ML/DL, CV, NLP and data analytics.
 **портфолио:**
 - https://github.com/Shostaklisa/ds_portfolio
 - https://github.com/Shostaklisa/freelance_projects
+- https://github.com/Shostaklisa/medical-data-lab
